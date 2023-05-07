@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+.size1{
+   font-size: x-large;
+}
+.size2{
+  font-size: x-large;
+}
+.class1{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.class2{
+  margin-top: auto;
+  margin-bottom: auto;
+}
